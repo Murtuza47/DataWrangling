@@ -6,7 +6,7 @@ To start developing for Data Wrangling you are going to need a development envir
 
 ## Create env for python
 
-To create env folder you have install env using command "pip install env", after installing, create a virtual env using this command "python3 -m venv <name_of_virtualenv>". To activate env run this command "env/Scripts/activate.bat"
+To create env folder you have install env using command "pip install env", after installing, create a virtual env using this command "python -m venv <name_of_virtualenv>". To activate env run this command "env/Scripts/activate.bat"
 
 ## install requiremnts
 
