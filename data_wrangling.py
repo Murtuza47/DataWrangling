@@ -3,6 +3,8 @@ import pandas as pd
 
 url = "https://en.wikipedia.org/wiki/Road_safety_in_Europe"
 df = pd.read_html(url)[1]
+
+#drop some columns and rename them 
 newdf = df.drop(
   [
     "Road Network Length (in km) in 2013[26]", 
@@ -18,4 +20,5 @@ newdf = df.drop(
 }).sort_values(by=["Road deaths per Million Inhabitants"])
 newdf['Year'] = 2018
 
-newdf.to_csv("lsr.csv")
+#create a csv file
+newdf.to_csv("RoadSafetyData.csv")
