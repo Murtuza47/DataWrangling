@@ -15,3 +15,15 @@ After creating a virtual env install dependencies of the project for this you ha
 ## Run the project
 
 To run the project use this command "python data_wrangling.py"
+
+## Country VS GDP Per Capita
+![image](https://user-images.githubusercontent.com/50296533/159179340-5f4122ed-2e5f-4cd6-9070-8cb1738eadb1.png)
+
+## Country VS Population density
+![image](https://user-images.githubusercontent.com/50296533/159179384-68845c98-b31a-41f3-b9ba-2bfecf1d918a.png)
+
+## Country VS Total road Deaths
+![image](https://user-images.githubusercontent.com/50296533/159179412-2e8018b4-0f87-433d-88bc-d3f336362d16.png)
+
+## Country VS Road Deaths per Million Inhabitants
+![image](https://user-images.githubusercontent.com/50296533/159179434-0759698c-23b1-42ee-bc21-53c218f1e5da.png)
